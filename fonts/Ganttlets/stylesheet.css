@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Ganttlets';
+    src: url('Ganttlets.eot');
+    src: url('Ganttlets.eot?#iefix') format('embedded-opentype'),
+        url('Ganttlets.woff2') format('woff2'),
+        url('Ganttlets.woff') format('woff'),
+        url('Ganttlets.ttf') format('truetype'),
+        url('Ganttlets.svg#Ganttlets') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
